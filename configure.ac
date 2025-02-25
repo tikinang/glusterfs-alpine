@@ -1318,7 +1318,7 @@ fi
 AC_SUBST(GF_DISTRIBUTION)
 
 GF_HOST_OS=""
-GF_LDFLAGS="${GF_LDFLAGS} -rdynamic"
+GF_LDFLAGS="${GF_LDFLAGS} -static"
 
 dnl see --with-libtirpc option check above, libtirpc(-devel) is required for
 dnl ipv6-default

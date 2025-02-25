@@ -130,3 +130,5 @@ xlators/features/utime/src/utime-autogen-fops.c
 xlators/features/utime/src/utime-autogen-fops.h
 tests/basic/metadisp/ftruncate
 xlators/features/metadisp/src/fops.c
+
+.idea
